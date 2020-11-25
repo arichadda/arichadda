@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Ari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arichadda)](https://github.com/anuraghazra/github-readme-stats)
-
+ [![Ari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arichadda)]
 
 
 
