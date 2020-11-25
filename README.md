@@ -1,5 +1,4 @@
 <h2> Hi, I'm Ari Chadda.</h2>
-<h2> a CS Student at Dartmouth College</h2>
 
 <!---
 <h3> About Me: </h3> 
