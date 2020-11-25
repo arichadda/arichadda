@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Ari's Github Stats](https://github-readme-stats.vercel.app/api?username=arichadda)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arichadda&layout=compact)
 
 
