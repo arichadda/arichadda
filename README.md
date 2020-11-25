@@ -15,7 +15,6 @@
   ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -29,23 +28,3 @@
 <a href="https://www.linkedin.com/in/arichadda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arichadda-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ari.chadda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ari.chadda@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<!--
-**arichadda/arichadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![Ari's Github Stats](https://github-readme-stats.vercel.app/api?username=arichadda)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arichadda&layout=compact)
--->
