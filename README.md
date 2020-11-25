@@ -3,11 +3,11 @@
 
 <h3> About Me: </h3> 
 
-- ...
+- Coming soon...
 
 <h3> Projects: </h3>
 
-- ...
+- Coming soon...
 
 <h3> Technical Literacy:</h3>
 
@@ -21,7 +21,6 @@
   ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Pytorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
   
   
 <h3> Connect with Me: </h3>
