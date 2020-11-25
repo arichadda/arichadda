@@ -1,6 +1,7 @@
 <h2> Hi, I'm Ari Chadda.</h2>
 <h2> a CS Student at Dartmouth College</h2>
 
+<! -- 
 <h3> About Me: </h3> 
 
 - Coming soon...
@@ -30,3 +31,4 @@
 <a href="https://www.linkedin.com/in/arichadda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arichadda-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ari.chadda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ari.chadda@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+-->
