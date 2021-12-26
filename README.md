@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ari Chadda.</h2>
-More about me: https://www.chadda.net/
+More about me: https://bit.ly/3qwvwrU
 <!---
 <h3> About Me: </h3> 
 -->
