@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ari Chadda.</h2>
 More about me: https://bit.ly/3qwvwrU (Last Updated Dec. 2020)
 
-Something I'm working on: https://bit.ly/CRYPTOPONGNewsletter
+Something I'm working on: https://twitter.com/cpong2021 | https://bit.ly/CRYPTOPONGNewsletter
 <!---
 <h3> About Me: </h3> 
 -->
