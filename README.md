@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ari Chadda.</h2>
 More about me: https://bit.ly/3qwvwrU (Last Updated Dec. 2020)
 
-Something I'm working on: https://twitter.com/cryptopongz | https://cryptopong.substack.com/
+Something I'm working on: https://cryptopongz.com | https://twitter.com/cryptopongz | https://cryptopong.substack.com/
 <!---
 <h3> About Me: </h3> 
 -->
