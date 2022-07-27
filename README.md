@@ -2,6 +2,8 @@
 More about me: https://bit.ly/3qwvwrU (Last Updated Dec. 2020)
 
 Something I'm working on: https://cryptopongz.com | https://twitter.com/cryptopongz | https://cryptopong.substack.com/
+
+All of the opinions here are my own.
 <!---
 <h3> About Me: </h3> 
 -->
